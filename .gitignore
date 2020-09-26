@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring-mongo-rest-api/target/
+/spring-postgresql-api/target/

@@ -1,0 +1,10 @@
+
+a
+java:S1874$"?Remove this use of "PreBuiltTransportClient"; it is deprecated.(Ş§İ¡üÿÿÿÿ8Ê¿ÄÑÌ.
+Y
+java:S1874!"7Remove this use of "TransportClient"; it is deprecated.(õ«¬şÿÿÿÿ8èŠÄÑÌ.
+Y
+java:S1128"7Remove this unused import 'java.net.InetSocketAddress'.(·¬ğ¶ıÿÿÿÿ8òøÈÑÌ.
+w
+java:S2095$"UUse try-with-resources or close this "PreBuiltTransportClient" in a "finally" clause.(Ş§İ¡üÿÿÿÿ8Ê¿ÄÑÌ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(³Ë‘¶ÿÿÿÿÿ8×ÂÑÌ.
